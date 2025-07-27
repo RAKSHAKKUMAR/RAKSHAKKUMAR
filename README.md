@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on:  
   **An international-level E-Commerce clothing web app** inspired by Cue-r & Zara  
-  🔗 [Live Demo](https://your-live-link.com) | [GitHub Repo](https://github.com/yourusername/yourproject)
+  🔗 [Live Demo]https://willowy-douhua-cfc55c.netlify.app/ | [GitHub Repo](https://github.com/yourusername/yourproject)
 
 - 👯 I’m looking to collaborate on:  
   Projects like YouTube clones, Netflix clones, Dashboards, AI-integrated apps  
